@@ -1,0 +1,8 @@
+#ifndef MY_DEVICE_CONFIG_H
+#define MY_DEVICE_CONFIG_H
+
+#define CONFIG_MQTT_BROKER_URL ""
+#define CONFIG_DEVICE_WIFI_SSID ""
+#define CONFIG_DEVICE_WIFI_PASS ""
+
+#endif
